@@ -22,5 +22,8 @@
   ],
   "scripts": {
     "postinstall": "grunt build"
+  },
+  "dependencies": {
+    "coffeescript": "^2.5.1"
   }
 }
